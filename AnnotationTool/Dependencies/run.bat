@@ -1,0 +1,1 @@
+start dot -Tpng C:\Users\lenovo\Desktop\FYP\FYP\GraphRepresentation\GraphRepresentation\bin\Debug\Example.dot -o C:\Users\lenovo\Desktop\FYP\FYP\GraphRepresentation\GraphRepresentation\bin\Debug\graphname2.png
