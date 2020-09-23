@@ -1,0 +1,141 @@
+﻿Citing Paper ID,Cited Paper ID,Sentiment,CCRO,Citation Text
+HI0501,HI0501-01,o,ccro:Discuss,The relation between N and h will depend on the detailed form of the particular distribution (HI0501-01)
+HI0501,HI0501-03,o,ccro:Discuss,"As discussed by Redner (HI0501-03), most papers earn their citations over a limited period of popularity and then they are no longer cited."
+HI0501,HI0501-04,o,ccro:Discuss,"It is also possible that papers ""drop out"" and then later come back into the h count, as would occur for the kind of papers termed ""sleeping beauties"" (HI0501-04)."
+HI0501,HI0501-05,o,ccro:Discuss,"From the list compiled by Christopher King of Thomson ISI of the most highly cited scientists in the period 1983-2002 (HI0501-05), I found the h indices for the top 10 on that list"
+HI0701,H0501,o,ccro:Discuss,The h index of a researcher is the number of papers coauthored by the researcher with at least h citations each (1).
+HI0701,HI0701-02,n,ccro:Negate,"Recently, Lehmann et al. (2, 3) have argued that the mean number of citations per paper (nc = Nc/Np) is a superior indicator."
+HI0701,HI0701-03,n,ccro:Negate,"If one chose instead to use as indicator of scientific achievement the mean number of citations per paper [following Lehmann et al. (2, 3)], our results suggest that (as in the stock market) ‘‘past performance is not predictive of future performance.’’"
+HI0701,HI0701-04,n,ccro:Negate,"It has been argued in the literature that one drawback of the h index is that it does not give enough ‘‘credit’’ to very highly cited papers, and various modifications have been proposed to correct this, in particular, Egghe’s g index (4), Jin et al.’s AR index (5), and Komulski’s H(2) index (6)."
+HI0701,HI0701-05,n,ccro:Negate,"It has been argued in the literature that one drawback of the h index is that it does not give enough ‘‘credit’’ to very highly cited papers, and various modifications have been proposed to correct this, in particular, Egghe’s g index (4), Jin et al.’s AR index (5), and Komulski’s H(2) index (6)."
+HI0701,HI0701-07,n,ccro:Negate,"It has been argued in the literature that one drawback of the h index is that it does not give enough ‘‘credit’’ to very highly cited papers, and various modifications have been proposed to correct this, in particular, Egghe’s g index (4), Jin et al.’s AR index (5), and Komulski’s H(2) index (6)."
+HI0701,HI0701-07,n,ccro:Negate,"Bornmann and Daniel (7) echo their conclusions and state that the Lehmann et al. (2, 3) study ‘‘raises some doubt as to the accuracy of the (h) index for measuring scientific performance"""
+HI0701,HI0701-08,o,ccro:Compare,"Instead, a variety of studies [8, 9] have shown that the h index by and large agrees with other objective and subjective measures of scientific quality in a variety of different disciplines (10–15),"
+HI0701,HI0701-09,o,ccro:Compare,"Instead, a variety of studies [8, 9] have shown that the h index by and large agrees with other objective and subjective measures of scientific quality in a variety of different disciplines (10–15),"
+HI0701,HI0701-10,o,ccro:Compare,"Instead, a variety of studies [8, 9] have shown that the h index by and large agrees with other objective and subjective measures of scientific quality in a variety of different disciplines (10–15),"
+HI0701,HI0701-11,o,ccro:Compare,"Instead, a variety of studies [8, 9] have shown that the h index by and large agrees with other objective and subjective measures of scientific quality in a variety of different disciplines (10–15),"
+HI0701,HI0701-12,o,ccro:Compare,"Instead, a variety of studies [8, 9] have shown that the h index by and large agrees with other objective and subjective measures of scientific quality in a variety of different disciplines (10–15),"
+HI0701,HI0701-13,o,ccro:Compare,"Instead, a variety of studies [8, 9] have shown that the h index by and large agrees with other objective and subjective measures of scientific quality in a variety of different disciplines (10–15),"
+HI0701,HI0701-14,o,ccro:Compare,"Instead, a variety of studies [8, 9] have shown that the h index by and large agrees with other objective and subjective measures of scientific quality in a variety of different disciplines (10–15),"
+HI0701,HI0701-15,o,ccro:Compare,"Instead, a variety of studies [8, 9] have shown that the h index by and large agrees with other objective and subjective measures of scientific quality in a variety of different disciplines (10–15),"
+HI0801,HI0801-01,p,ccro:Incorporate,"In this paper, we provide an axiomatic characterization of the Hirsch-index, in very much the same spirit as Arrow (1950, 1951), May (1952), and Moulin (1988) did for numerous other problems in mathematical decision making."
+HI0801,HI0801-02,p,ccro:Incorporate,"In this paper, we provide an axiomatic characterization of the Hirsch-index, in very much the same spirit as Arrow (1950, 1951), May (1952), and Moulin (1988) did for numerous other problems in mathematical decision making."
+HI0801,HI0801-03,o,ccro:Discuss,Ball (2005) indicates that it might eventually be useful as an objective criterion for election to bodies such as the USA National Academy of Sciences or Britain’s Royal Society.
+HI0801,HI0701-08,o,ccro:Compare,"Bornmann and Daniel (2005, 2007), Hirsch (2007), and van Raan (2006) study and compare the Hirsch-index against other bibliometric indicators."
+HI0801,HI0701-07,o,ccro:Compare,"Bornmann and Daniel (2005, 2007), Hirsch (2007), and van Raan (2006) study and compare the Hirsch-index against other bibliometric indicators."
+HI0801,HI0701-12,o,ccro:Discuss,Cronin and Meho (2006) and Oppenheim (2007) apply it to rank influential information scientists. 
+HI0801,H0501,n,ccro:Contrast,"Hirsch (2005) argues that two individuals with similar Hirsch-index are comparable in terms of their overall scientific impact, even if their total number of papers or their total number of citations is very different."
+HI0801,HI0701,o,ccro:Compare,"Bornmann and Daniel (2005, 2007), Hirsch (2007), and van Raan (2006) study and compare the Hirsch-index against other bibliometric indicators."
+HI0801,HI0801-09,p,ccro:Incorporate,"In this paper, we provide an axiomatic characterization of the Hirsch-index, in very much the same spirit as Arrow (1950, 1951), May (1952), and Moulin (1988) did for numerous other problems in mathematical decision making."
+HI0801,HI0801-10,p,ccro:Incorporate,"In this paper, we provide an axiomatic characterization of the Hirsch-index, in very much the same spirit as Arrow (1950, 1951), May (1952), and Moulin (1988) did for numerous other problems in mathematical decision making."
+HI0801,HI0701-14,o,ccro:Discuss,Cronin and Meho (2006) and Oppenheim (2007) apply it to rank influential information scientists. 
+HI0801,HI0701-09,o,ccro:Compare,"Bornmann and Daniel (2005, 2007), Hirsch (2007), and van Raan (2006) study and compare the Hirsch-index against other bibliometric indicators."
+HI0802,HI0801-03,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,HI0701-08,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,HI0701-07,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,HI0701-12,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,HI0902,o,ccro:Discuss,This index was proposed by Egghe (2006a).
+HI0802,HI0701-04,n,ccro:Criticize,"The h-index does not take into account that some papers may have extraordinarily many citations, and the g-index tries to compensate for this; see also Egghe (2006b) and Tol (2008)."
+HI0802,HI0802-07,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,H0501,o,ccro:Discuss,Hirsch (2005) proposed the h-index (or Hirsch-index) as a simple tool for quantifying the scientific productivity and the scientific impact of an individual researcher.
+HI0802,H0502,p,ccro:Basedon,A formal mathematical description of the h-index introduced by Hirsch (2005)
+HI0802,HI0701,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,HI0802-10,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,HI0802-11,o,ccro:Discuss,Marchant (2008) provides an axiomatic characterization of the ranking of scientists that results from the h-index.
+HI0802,HI0801-10,p,ccro:Incorporate,"For axiomatic characterizations of many other concepts in mathematical decision making, we refer the reader to Moulin (1988)."
+HI0802,HI0701-14,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,HI0802-14,o,ccro:Compare,This h-index has many advantages: It is simple to understand and easy to compute. It can be applied to any level of aggregation. It is a robust indicator; see Rousseau (2007).
+HI0802,HI0802-15,n,ccro:Criticize,"The h-index does not take into account that some papers may have extraordinarily many citations, and the g-index tries to compensate for this; see also Egghe (2006b) and Tol (2008)."
+HI0802,HI0701-09,p,ccro:Incorporate,"it has been applied to a variety of areas; see for instance Ball (2005), Bornmann and Daniel (2005), Bornmann and Daniel (2007), Cronin and Meho (2006), Glänzel (2006), Hirsch (2007), Liu and Rousseau (2007), Oppenheim (2007) and van Raan (2006)."
+HI0802,HI0801,o,ccro:Discuss,The w-index was proposed by Woeginger (2008).
+HI0901,H0501,o,ccro:Discuss,"Woeginger (2008a, 2008b) characterizes the Hirsch (2005) index for indices taking values in the set of non-negative integers."
+HI0901,HI1001,o,ccro:Compare,Two of the reviewers pointed out the close relationship between Theorem 3.1 and the characterizations of the Hirsch index in Quesada (in press).
+HI0901,HI0801,o,ccro:Discuss,"Woeginger (2008a, 2008b) characterizes the Hirsch (2005) index for indices taking values in the set of non-negative integers."
+HI0901,HI0802,o,ccro:Discuss,"Woeginger (2008a, 2008b) characterizes the Hirsch (2005) index for indices taking values in the set of non-negative integers."
+HI0902,HI0801-03,o,ccro:Compare,"In the references [1,2,7,9] one describes some advantages of this new scientometric indicator:"
+HI0902,HI0902-02,o,ccro:Compare,"In the references [1,2,7,9] one describes some advantages of this new scientometric indicator:"
+HI0902,HI0701-04,p,ccro:Extend,In [3] the analogous formula for the g-index has been proved
+HI0902,HI0902-04,o,ccro:Discuss,"In [4,5] a theory is presented to calculate the evolution of the h- and g-index in function of time."
+HI0902,HI0902-05,o,ccro:Discuss,"In [4,5] a theory is presented to calculate the evolution of the h- and g-index in function of time."
+HI0902,HI0902-06,o,ccro:Discuss,"In [6,8] a formula for the h-index is presented in case the data follow a Lotka power law with exponent α in the denominator."
+HI0902,HI0902-07,o,ccro:Compare,"In the references [1,2,7,9] one describes some advantages of this new scientometric indicator:"
+HI0902,HI0802-07,o,ccro:Discuss,"In [6,8] a formula for the h-index is presented in case the data follow a Lotka power law with exponent α in the denominator."
+HI0902,H0501,o,ccro:Compare,"In the references [1,2,7,9] one describes some advantages of this new scientometric indicator:"
+HI1001,H0501,p,ccro:Extend,This paper offers three axiomatic characterizations of the Hirsch (2005) index
+HI1001,HI0901,p,ccro:Incorporate,One of the referees recommends mentioning Quesada (2008) as another characterization of the Hirsch index relying as well on monotonicity.
+HI1001,HI1001-03,o,ccro:Discuss,see Wikipedia (2008) for a discussion of advantages and criticisms of the Hirsch index.
+HI1001,HI0801,n,ccro:Contrast,The three differ from Woeginger’s (2008a) characterization in requiring fewer axioms (three instead of five)
+HI1001,HI0801,o,ccro:Discuss,"Woeginger (2008a, p. 225) defines an (impact) index as a mapping f: D -> N satisfying the monotonicity property MON"
+HI1001,HI0801,n,ccro:Criticize,"Woeginger (2008a, p. 227) stresses that his axioms should be interpreted within the context of MON."
+HI1001,HI0802,p,ccro:Incorporate,"Woeginger (2008b, p. 301) provides another characterization of the Hirsch index,"
+HI1101,HI0701-04,n,ccro:Criticize,It may be worth pointing out that the Egghe (2006) index g satisfies neither IIC nor CON
+HI1101,H0501,o,ccro:Discuss,"The Hirsch (2005) index transforms a researcher’s output into a number, interpreted as a measure of the output’s scientific value or impact."
+HI1101,HI0802-11,n,ccro:Contrast,"Marchant (2009), instead of characterizing the index itself, characterizes the ranking that the Hirsch index induces on outputs."
+HI1101,HI0901,p,ccro:Basedon,"Woeginger (2008a, b) and Quesada (2009, 2010) have already suggested characterizations of the Hirsch index"
+HI1101,HI1001,p,ccro:Basedon,"Woeginger (2008a, b) and Quesada (2009, 2010) have already suggested characterizations of the Hirsch index"
+HI1101,HI0801,p,ccro:Basedon,"Woeginger (2008a, b) and Quesada (2009, 2010) have already suggested characterizations of the Hirsch index"
+HI1101,HI0802,p,ccro:Basedon,"Woeginger (2008a, b) and Quesada (2009, 2010) have already suggested characterizations of the Hirsch index"
+HI1101,HI0801,o,ccro:Compare,"Propositions 4.2 and 4.3 can at least be viewed as characterizations complementing those by Woeginger (2008a, b),"
+HI1101,HI0802,o,ccro:Compare,"Propositions 4.2 and 4.3 can at least be viewed as characterizations complementing those by Woeginger (2008a, b),"
+HI1101,HI0801,n,ccro:Contrast,"CVX is weaker than Woeginger’s (2008a, p. 225; b, p. 299) monotonicity"
+HI1101,HI0802,n,ccro:Contrast,"CVX is weaker than Woeginger’s (2008a, p. 225; b, p. 299) monotonicity"
+HI1301,HI1301-01,o,ccro:Discuss,"See Barbera, Bossert, and Pattanaik (2004)."
+HI1301,HI1301-02,o,ccro:Compare,The two mechanisms are also jointly used when other scientific indexes are axiomatized; see e.g. Woeginger (2009) and Deineko and Woeginger (2009).
+HI1301,HI1301-03,o,ccro:Compare,"Although indexes may take into account various parameters to measure the scientific impact (Egghe, 2010), many of them focus on exactly two parameters:"
+HI1301,H0501,p,ccro:Incorporate,"Following Hirsch (2005), a wide spectrum of indexes for analyzing scientific impact has been proposed."
+HI1301,HI0901,o,ccro:Compare,"The axiomatizations of the h-index presented, e.g. in Woeginger (2008), Quesada (2009) appeal to both mechanisms: they make use of both variable productivity outputs and multi impact (i.e., citations) states."
+HI1301,HI1001,p,ccro:BasedOn,"The axiomatizations presented in Quesada (2010, 2011) also dispense with strong monotonicity."
+HI1301,HI1101,p,ccro:BasedOn,"The axiomatizations presented in Quesada (2010, 2011) also dispense with strong monotonicity."
+HI1301,HI0801,o,ccro:Compare,"The axiomatizations of the h-index presented, e.g. in Woeginger (2008), Quesada (2009) appeal to both mechanisms: they make use of both variable productivity outputs and multi impact (i.e., citations) states."
+HI1301,HI1301-09,o,ccro:Compare,The two mechanisms are also jointly used when other scientific indexes are axiomatized; see e.g. Woeginger (2009) and Deineko and Woeginger (2009).
+HI1501,H0501,p,ccro:Incorporate,"In 2005, J.E. Hirsch introduced the so-called “h-index” as a way of assessing and quantifying the impact of the publication record associated with an individual researcher [1, 2]."
+HI1501,HI0701,p,ccro:Incorporate,"In 2005, J.E. Hirsch introduced the so-called “h-index” as a way of assessing and quantifying the impact of the publication record associated with an individual researcher [1, 2]."
+HI1501,HI1501-03,o,ccro:Compare,"Indeed, this is only one of a number of such practical inconsistencies inherent in the traditional h-index; other similar inconsistencies are discussed in Refs. [3, 4]."
+HI1501,HI1501-04,o,ccro:Compare,"Indeed, this is only one of a number of such practical inconsistencies inherent in the traditional h-index; other similar inconsistencies are discussed in Refs. [3, 4]."
+HI1501,HI1501-05,o,ccro:Discuss,"This general point has also been emphasized in, e.g., Refs. [3–6]."
+HI1501,HI1501-06,o,ccro:Discuss,"This general point has also been emphasized in, e.g., Refs. [3–6]."
+HI1501,HI1501-07,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI1501-08,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI1501-09,o,ccro:Discuss,Similar work along these lines also appears in Refs. [5–11].
+HI1501,HI1501-10,o,ccro:Discuss,Similar work along these lines also appears in Refs. [5–11].
+HI1501,HI1501-11,o,ccro:Discuss,Similar work along these lines also appears in Refs. [5–11].
+HI1501,HI0501-01,o,ccro:Compare,"Indeed, it is shown in Refs. [1, 12] that stretched exponential functions of this form do a particularly good job of modeling realistic citation profiles."
+HI1501,HI1501-13,o,ccro:Discuss,"Indeed, this is a very special citation profile, known as the Zipf distribution [13], which has been hypothesized to apply to a large variety of statistical systems dominated by essentially random behavior."
+HI1501,HI0801,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI0802,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI0802-11,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI1501-17,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI1501-18,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI0901,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI1001,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI1101,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI1501-22,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI1501-23,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI1301,p,ccro:Basedon,This includes a rather large and impressive body of work [14–24] focusing on attempts to place the h-index on a solid axiomatic footing as the inevitable bibliometric index meeting certain internal logical self-consistency criteria.
+HI1501,HI1501-25,o,ccro:Discuss,"A few representative papers are listed in Refs. [3, 4, 7, 8, 25–49]."
+HI1501,HI0701-04,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI0701-05,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI1501-28,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI1501-29,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI1501-30,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI1501-31,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI1501-32,o,ccro:Discuss,"increasing the weighting of very highly-cited papers, either through the introduction of intrinsic weighting factors or the development of entirely new indices which mix the h-index with other more traditional indices (such as total citation count) [3, 4, 7, 8, 26–32];"
+HI1501,HI1501-33,o,ccro:Discuss,considering the use of so-called “fractional citations” in which one divides the number of citations associated with a given paper by the number of authors on that paper [33–38];
+HI1501,HI1501-34,o,ccro:Discuss,considering the use of so-called “fractional citations” in which one divides the number of citations associated with a given paper by the number of authors on that paper [33–38];
+HI1501,HI1501-35,o,ccro:Discuss,considering the use of so-called “fractional citations” in which one divides the number of citations associated with a given paper by the number of authors on that paper [33–38];
+HI1501,HI1501-36,o,ccro:Discuss,considering the use of so-called “fractional citations” in which one divides the number of citations associated with a given paper by the number of authors on that paper [33–38];
+HI1501,HI1501-37,o,ccro:Compare,weighting the citations to a given paper according to the relative age and/or status of the author in question compared with those of possible co-authors on that paper (thereby recognizing the contributions of senior collaborators in a different way than those of junior collaborators) [37];
+HI1501,HI1501-38,o,ccro:Discuss,considering the use of so-called “fractional citations” in which one divides the number of citations associated with a given paper by the number of authors on that paper [33–38];
+HI1501,HI1501-39,o,ccro:Discuss,introducing correction factors which specifically compensate for the citation-related advantages accrued by authors who are members of large “big science” collaborations [39];
+HI1501,HI1501-40,o,ccro:Discuss,increasing the sensitivity to the variability (“entropy”) of the overall citation profile of a given researcher [40];
+HI1501,HI1501-41,o,ccro:Compare,"differentiating between publications in peer-reviewed scientific journals versus other forms of publications (proceedings articles, book chapters, encyclopedia articles, etc.) [41];"
+HI1501,HI1501-42,p,ccro:Incorporate,"weighting the citations to a given paper according to its age, in order to eliminate the effects of time-dependent changes in citation patterns and community sizes [42];"
+HI1501,HI0701-13,o,ccro:Discuss,"renormalizing the overall h-indices within a given discipline in a discipline-dependent way [43, 44];"
+HI1501,HI1501-44,o,ccro:Discuss,"renormalizing the overall h-indices within a given discipline in a discipline-dependent way [43, 44];"
+HI1501,HI1501-45,o,ccro:Discuss,renormalizing citation counts to each paper within a given discipline by the average number of citations per paper in that discipline [45–48].
+HI1501,HI1501-46,p,ccro:Discuss,renormalizing citation counts to each paper within a given discipline by the average number of citations per paper in that discipline [45–48].
+HI1501,HI1501-47,o,ccro:Discuss,renormalizing citation counts to each paper within a given discipline by the average number of citations per paper in that discipline [45–48].
+HI1501,HI1501-48,o,ccro:Discuss,renormalizing citation counts to each paper within a given discipline by the average number of citations per paper in that discipline [45–48].
+HI1501,HI1301-03,o,ccro:Discuss,"A few representative papers are listed in Refs. [3, 4, 7, 8, 25–49]."
+HI1501,HI1501-50,n,ccro:Criticize,"Indeed, in some scientific disciplines the h-index can even fail to represent a fundamentally new bibliometric variable altogether, and is instead tightly correlated with a more traditional variable such as total citation count [50, 51]."
+HI1501,HI1501-51,n,ccro:Criticize,"Indeed, in some scientific disciplines the h-index can even fail to represent a fundamentally new bibliometric variable altogether, and is instead tightly correlated with a more traditional variable such as total citation count [50, 51]."
