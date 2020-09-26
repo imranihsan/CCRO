@@ -1,0 +1,91 @@
+%% CCRO Package
+%% Developed By: Imran Ihsan
+%% http://www.imranihsan.com
+
+\RequirePackage{ifthen}
+\RequirePackage{natbib}
+\RequirePackage{xcolor}
+
+
+%% 'sans serif' option
+\DeclareOption{sans}{
+  \renewcommand{\familydefault}{\sfdefault}
+}
+
+%% 'roman' option
+\DeclareOption{roman}{
+  \renewcommand{\familydefault}{\rmdefault}
+}
+
+\definecolor{positive}{RGB}{0, 200, 0}
+\definecolor{negative}{RGB}{255, 0, 0}
+\definecolor{neutral}{RGB}{255, 150, 0}
+
+
+
+
+\newcommand{\citepos}[2]{
+
+    \ifthenelse{\equal{#2}{+1}}
+    {\citep*[\footnotesize \textcolor{positive} {Incorporate} \normalsize][]{#1} }
+    {
+        \ifthenelse{\equal{#2}{+2}}
+        {\citep*[\footnotesize \textcolor{positive} {Extend} \normalsize][]{#1} }
+        {
+            \ifthenelse{\equal{#2}{+3}}
+            {\citep*[\footnotesize \textcolor{positive} {BasedOn} \normalsize][]{#1} }
+            {\citep*[\footnotesize \textcolor{positive} {Incorporate} \normalsize][]{#1}}
+        }
+    }
+}
+
+\newcommand{\citeneg}[2]{
+
+    \ifthenelse{\equal{#2}{-1}}
+    {\citep*[\footnotesize \textcolor{negative} {Contrast} \normalsize][]{#1} }
+    {
+        \ifthenelse{\equal{#2}{-2}}
+        {\citep*[\footnotesize \textcolor{negative} {Criticize} \normalsize][]{#1} }
+        {
+            \ifthenelse{\equal{#2}{-3}}
+            {\citep*[\footnotesize \textcolor{negative} {Negate} \normalsize][]{#1} }
+            {\citep*[\footnotesize \textcolor{negative} {Contrast} \normalsize][]{#1}}
+        }
+    }
+}
+
+\newcommand{\citeneu}[2]{
+
+    \ifthenelse{\equal{#2}{=1}}
+    {\citep*[\footnotesize \textcolor{neutral} {Discuss} \normalsize][]{#1} }
+    {
+        \ifthenelse{\equal{#2}{=2}}
+        {\citep*[\footnotesize \textcolor{neutral} {Compare} \normalsize][]{#1} }
+        {
+            \citep*[\footnotesize \textcolor{neutral} {Discuss} \normalsize][]{#1}
+        }
+    }
+}
+
+
+
+%% Global indentation option
+\newif\if@neverindent\@neverindentfalse
+\DeclareOption{neverindent}{
+  \@neverindenttrue
+}
+
+\ExecuteOptions{roman}
+
+\ProcessOptions\relax
+
+%% Traditional LaTeX or TeX follows...
+% ...
+
+\if@neverindent
+\neverindent
+\fi
+
+% ...
+
+\endinput
