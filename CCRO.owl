@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.ocropus.com/ocr#"
-     xml:base="http://www.ocropus.com/ocr"
+<rdf:RDF xmlns="http://www.ccropus.com/ccro#"
+     xml:base="http://www.ccropus.com/ccro"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="http://www.ocropus.com/ocr"/>
+    <owl:Ontology rdf:about="http://www.ccropus.com/ccro"/>
     
 
 
@@ -21,161 +21,161 @@
     
 
 
-    <!-- http://www.ocropus.com/ocr#BasedOn -->
+    <!-- http://www.ccroopus.com/ccro#BasedOn -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#BasedOn">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#PositiveReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#BasedOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#PositiveReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:comment>To use a research as foundation or starting point</rdfs:comment>
         <rdfs:label>BasedOn</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#CitationReason -->
+    <!-- http://www.ccropus.com/ccro#CitationReason -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#CitationReason">
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#CitationReason">
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:label>Cites</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#Compare -->
+    <!-- http://www.ccropus.com/ccro#Compare -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#Compare">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#NeutralReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#Compare">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#NeutralReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:comment>To examine in order to show similarities</rdfs:comment>
         <rdfs:label>Compare</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#Contrast -->
+    <!-- http://www.ccropus.com/ccro#Contrast -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#Contrast">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#NegativeReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#Contrast">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#NegativeReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:comment>To show differences with opposite nature</rdfs:comment>
         <rdfs:label>Contrast</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#Criticize -->
+    <!-- http://www.ccropus.com/ccro#Criticize -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#Criticize">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#NegativeReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#Criticize">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#NegativeReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:comment>To find fault in a research with: points out the faults of</rdfs:comment>
         <rdfs:label>Criticize</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#Discuss -->
+    <!-- http://www.ccropus.com/ccro#Discuss -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#Discuss">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#NeutralReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#Discuss">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#NeutralReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:comment>To consider or examine by argument</rdfs:comment>
         <rdfs:label>Discuss</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#Extend -->
+    <!-- http://www.ccropus.com/ccro#Extend -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#Extend">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#PositiveReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#Extend">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#PositiveReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:comment>To spread from a central research to a wider solution</rdfs:comment>
         <rdfs:label>Extend</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#Incorporate -->
+    <!-- http://www.ccropus.com/ccro#Incorporate -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#Incorporate">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#PositiveReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#Incorporate">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#PositiveReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:comment>To cite a research as part of a whole</rdfs:comment>
         <rdfs:label>Incorporate</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#Negate -->
+    <!-- http://www.ccropus.com/ccro#Negate -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#Negate">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#NegativeReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#Negate">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#NegativeReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:comment>To cause to be ineffective or invalid</rdfs:comment>
         <rdfs:label>Negate</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#NegativeReason -->
+    <!-- http://www.ccropus.com/ccro#NegativeReason -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#NegativeReason">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#CitationReason"/>
-        <owl:inverseOf rdf:resource="http://www.ocropus.com/ocr#PositiveReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#NegativeReason">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#CitationReason"/>
+        <owl:inverseOf rdf:resource="http://www.ccropus.com/ccro#PositiveReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:label>citesWithNegativeReason</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#NeutralReason -->
+    <!-- http://www.ccropus.com/ccro#NeutralReason -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#NeutralReason">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#CitationReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#NeutralReason">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#CitationReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:label>citesWithNeutralReason</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#PositiveReason -->
+    <!-- http://www.ccropus.com/ccro#PositiveReason -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#PositiveReason">
-        <rdfs:subPropertyOf rdf:resource="http://www.ocropus.com/ocr#CitationReason"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#CitedPaper"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#PositiveReason">
+        <rdfs:subPropertyOf rdf:resource="http://www.ccropus.com/ccro#CitationReason"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#CitedPaper"/>
         <rdfs:label>citesWithPositiveReason</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#consistsOf -->
+    <!-- http://www.ccropus.com/ccro#consistsOf -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#consistsOf">
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#consistsOf">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#CitingPaper"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#Citation"/>
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#CitingPaper"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#Citation"/>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://www.ocropus.com/ocr#isStructuredAround -->
+    <!-- http://www.ccropus.com/ccro#isStructuredAround -->
 
-    <owl:ObjectProperty rdf:about="http://www.ocropus.com/ocr#isStructuredAround">
-        <rdfs:domain rdf:resource="http://www.ocropus.com/ocr#Citation"/>
-        <rdfs:range rdf:resource="http://www.ocropus.com/ocr#MainVerb"/>
+    <owl:ObjectProperty rdf:about="http://www.ccropus.com/ccro#isStructuredAround">
+        <rdfs:domain rdf:resource="http://www.ccropus.com/ccro#Citation"/>
+        <rdfs:range rdf:resource="http://www.ccropus.com/ccro#MainVerb"/>
     </owl:ObjectProperty>
     
 
@@ -191,37 +191,37 @@
     
 
 
-    <!-- http://www.ocropus.com/ocr#Citation -->
+    <!-- http://www.ccropus.com/ccro#Citation -->
 
-    <owl:Class rdf:about="http://www.ocropus.com/ocr#Citation"/>
+    <owl:Class rdf:about="http://www.ccropus.com/ccro#Citation"/>
     
 
 
-    <!-- http://www.ocropus.com/ocr#CitedPaper -->
+    <!-- http://www.ccropus.com/ccro#CitedPaper -->
 
-    <owl:Class rdf:about="http://www.ocropus.com/ocr#CitedPaper">
-        <rdfs:subClassOf rdf:resource="http://www.ocropus.com/ocr#Paper"/>
+    <owl:Class rdf:about="http://www.ccropus.com/ccro#CitedPaper">
+        <rdfs:subClassOf rdf:resource="http://www.ccropus.com/ccro#Paper"/>
     </owl:Class>
     
 
 
-    <!-- http://www.ocropus.com/ocr#CitingPaper -->
+    <!-- http://www.ccropus.com/ccro#CitingPaper -->
 
-    <owl:Class rdf:about="http://www.ocropus.com/ocr#CitingPaper">
-        <rdfs:subClassOf rdf:resource="http://www.ocropus.com/ocr#Paper"/>
+    <owl:Class rdf:about="http://www.ccropus.com/ccro#CitingPaper">
+        <rdfs:subClassOf rdf:resource="http://www.ccropus.com/ccro#Paper"/>
     </owl:Class>
     
 
 
-    <!-- http://www.ocropus.com/ocr#MainVerb -->
+    <!-- http://www.ccropus.com/ccro#MainVerb -->
 
-    <owl:Class rdf:about="http://www.ocropus.com/ocr#MainVerb"/>
+    <owl:Class rdf:about="http://www.ccropus.com/ccro#MainVerb"/>
     
 
 
-    <!-- http://www.ocropus.com/ocr#Paper -->
+    <!-- http://www.ccropus.com/ccro#Paper -->
 
-    <owl:Class rdf:about="http://www.ocropus.com/ocr#Paper"/>
+    <owl:Class rdf:about="http://www.ccropus.com/ccro#Paper"/>
     
 
 
@@ -236,9 +236,9 @@
     <rdf:Description>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointProperties"/>
         <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://www.ocropus.com/ocr#NegativeReason"/>
-            <rdf:Description rdf:about="http://www.ocropus.com/ocr#NeutralReason"/>
-            <rdf:Description rdf:about="http://www.ocropus.com/ocr#PositiveReason"/>
+            <rdf:Description rdf:about="http://www.ccropus.com/ccro#NegativeReason"/>
+            <rdf:Description rdf:about="http://www.ccropus.com/ccro#NeutralReason"/>
+            <rdf:Description rdf:about="http://www.ccropus.com/ccro#PositiveReason"/>
         </owl:members>
     </rdf:Description>
 </rdf:RDF>
